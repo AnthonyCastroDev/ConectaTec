@@ -127,6 +127,4 @@ Feed / Interação
 
 ## Diagramas UML
  
-### **Diagrama de Casos de Uso**
-
-
+[Diagrama de Casos de Uso](docs/diagramas/digrama-de-casos-de-uso.md)
