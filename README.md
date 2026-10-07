@@ -128,5 +128,5 @@ Feed / Interação
 ## Diagramas UML
 
 - [Diagrama de Casos de Uso](docs/diagramas/digrama-de-casos-de-uso.md)
-- [Diagrama de Sequencia-Login](docs/diagramas/digrama-de-sequencia-login.md)
-- [Diagrama de Estado-Usuário](docs/diagramas/digrama-de-estado-usuario.md)
+- [Diagrama de Sequencia-Login](docs/diagramas/diagrama-de-sequencia-login.md)
+- [Diagrama de Estado-Usuário](docs/diagramas/diagrama-de-estado-usuario.md)
