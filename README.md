@@ -126,5 +126,7 @@ Feed / Interação
 * [ ] Publicação do MVP
 
 ## Diagramas UML
- 
-[Diagrama de Casos de Uso](docs/diagramas/digrama-de-casos-de-uso.md)
+
+- [Diagrama de Casos de Uso](docs/diagramas/digrama-de-casos-de-uso.md)
+- [Diagrama de Sequencia-Login](docs/diagramas/digrama-de-sequencia-login.md)
+- [Diagrama de Estado-Usuário](docs/diagramas/digrama-de-estado-usuario.md)
