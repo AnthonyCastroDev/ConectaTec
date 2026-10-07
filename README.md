@@ -124,3 +124,9 @@ Feed / Interação
 * [ ] Documentação do banco
 * [ ] Repositório organizado
 * [ ] Publicação do MVP
+
+## Diagramas UML
+ 
+### **Diagrama de Casos de Uso**
+
+
