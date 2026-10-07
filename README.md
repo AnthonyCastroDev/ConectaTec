@@ -43,3 +43,26 @@ Conceitos e práticas (a confirmar conforme o desenvolvimento):
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## Funcionalidades do Sistema
+
+### Autenticação
+* Cadastro
+* Login
+
+### Perfil
+* Visualizar e editar perfil
+* Cadastrar habilidades
+
+### Projetos
+
+* Cadastrar, editar, excluir e listar projetos
+
+### Networking
+
+* Buscar alunos e empresas
+* Conexões
+
+Feed / Interação
+
+* Feed de publicações
