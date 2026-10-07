@@ -59,10 +59,68 @@ Conceitos e práticas (a confirmar conforme o desenvolvimento):
 * Cadastrar, editar, excluir e listar projetos
 
 ### Networking
-
 * Buscar alunos e empresas
 * Conexões
 
 Feed / Interação
 
 * Feed de publicações
+
+## Roadmap do MVP
+> Os itens irão ser marcados com um `[x]` a medida que o projeto for avançando.
+
+**Planejamento**
+
+* [ ] Requisitos
+* [ ] Usuários / personas (aluno, empresa)
+* [ ] Regras de negócio
+* [ ] Prioridades do MVP
+
+**Design e Prototipação**
+
+* [ ] Identidade visual
+* [ ] Protótipo no Figma
+* [ ] Telas do sistema
+* [ ] Validação
+      
+**Backend**
+
+* [ ] Arquitetura e API
+* [ ] Modelos e banco de dados
+* [ ] Autenticação
+* [ ] Usuários e perfis
+* [ ] Projetos
+* [ ] Validações e tratamento de erros
+      
+**Frontend**
+
+* [ ] Estrutura do projeto
+* [ ] Login e cadastro
+* [ ] Perfil
+* [ ] Busca
+* [ ] Projetos
+* [ ] Demais telas do MVP
+      
+**Integração**
+* [ ] Frontend e API
+* [ ] Autenticação
+* [ ] Banco de dados
+* [ ] Fluxos principais
+      
+**Testes e qualidade**
+
+* [ ] Cadastro e login
+* [ ] Perfil
+* [ ] CRUD de projetos
+* [ ] Validações
+* [ ] Correção de bugs
+* [ ] Segurança
+
+**Documentação e publicação**
+
+* [ ] README
+* [ ] Documentação da API
+* [ ] Diagramas UML
+* [ ] Documentação do banco
+* [ ] Repositório organizado
+* [ ] Publicação do MVP
